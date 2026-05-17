@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Bianca 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedora Full Stack · Setor Financeiro · Itajubá, MG</em>
+  <em>Desenvolvedora Full Stack · Itajubá, MG</em>
 </p>
 
 <p align="center">
