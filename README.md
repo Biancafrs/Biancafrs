@@ -24,8 +24,6 @@
 - 🎓 Cursando **Sistemas de Informação** no Centro Universitário de Itajubá (FEPI) — previsão 2027
 - 🏦 Experiência no desenvolvimento de aplicações para o **setor financeiro**
 - 🚀 Confira meu portfólio em [bianca-ferreira.vercel.app](https://bianca-ferreira.vercel.app)
-- 💬 Pode me perguntar sobre **React, Next.js, TypeScript, Java e Spring Boot**
-- 📍 Disponível para trabalho **remoto ou presencial**
 
 ---
 
@@ -62,30 +60,5 @@
 ## 🎯 Interesses
 
 - Desenvolvimento Full Stack
-- Aplicações para o Setor Financeiro
-- Arquitetura de Software
+- Soluções Financeiras
 - UX & Interfaces Modernas
-
----
-
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Biancafrs&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biancafrs&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
-## 🏆 Eventos & Imersões
-
-- 🌩️ **AWS Summit** — Cloud computing e inovação
-- ⚡ **Hacktown** — Festival de tecnologia e startups
-- 🚀 **Startup Weekend** — Criação e validação de startups em 54h
-- 🛸 **NASA Space Apps Challenge** — Hackathon global da NASA
-
----
-
-<p align="center">
-  <em>"code & coffee & deploy ☕"</em>
-</p>
